@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "image_1.jpg",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "id": 2,
+      "file_name": "image_2.jpg",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "id": 3,
+      "file_name": "image_3.jpg",
+      "width": 0,
+      "height": 0
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": {
+        "labels": [
+          {
+            "name": "plant",
+            "parent": "",
+            "attributes": []
+          }
+        ],
+        "label_groups": [],
+        "attributes": [
+          "occluded"
+        ]
+      },
+      "supercategory": "none"
+    },
+    {
+      "id": 2,
+      "name": {
+        "items": []
+      },
+      "supercategory": "none"
+    }
+  ]
+}
